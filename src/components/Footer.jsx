@@ -200,12 +200,11 @@ const Footer = () => {
                 Andhra Pradesh, India
               </p>
 
-              <p>
+              
                <p>
   Passionate about Full Stack Development,
   DSA and creating real-world solutions
 </p>
-              </p>
 
             </div>
 
