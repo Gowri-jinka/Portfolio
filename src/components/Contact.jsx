@@ -48,14 +48,12 @@ const Contact = () => {
 
         console.log("EmailJS templateParams (for template variables):", templateParams);
 
-        emailjs
-            .sendForm(
-                "service_42qdj88",
-                "template_ytmqq9e",
-                form.current,
-                // Public key must belong to the EmailJS account that owns the service + template
-                "1MpO0zV2U4OSUhgd4"
-            )
+        emailjs.sendForm(
+   import.meta.env.VITE_SERVICE_ID,
+   import.meta.env.VITE_TEMPLATE_ID,
+   form.current,
+   import.meta.env.VITE_PUBLIC_KEY
+)
             .then(
                 (result) => {
                     console.log("EmailJS result:", result);
