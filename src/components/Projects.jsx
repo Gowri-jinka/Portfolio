@@ -1,6 +1,29 @@
 import { motion } from "framer-motion";
 
 const projects = [
+
+   {
+    title:"Personal Portfolio Website",
+
+    desc:
+    "Designed and developed a modern personal portfolio website using React.js with interactive animations, responsive layouts, EmailJS integration, certifications showcase, projects section, and GitHub deployment. Built to create a professional digital presence.",
+
+    tech:[
+      "React.js",
+      "Vite",
+      "Tailwind CSS",
+      "Framer Motion",
+      "EmailJS",
+      "Vercel"
+    ],
+
+    github:
+    "https://github.com/Gowri-jinka/Portfolio",
+
+    image:
+    "https://images.unsplash.com/photo-1461749280684-dccba630e2f6"
+  },
+  
   {
     title: "Ecommerce MERN Application",
 
