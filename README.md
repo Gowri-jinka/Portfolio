@@ -70,7 +70,7 @@ This portfolio serves as my digital professional profile and highlights:
 
 ### Hero Section
 
-<img width="1902" height="908" alt="image" src="https://github.com/user-attachments/assets/eb4c4c19-86e2-49c9-87ee-bb827fd9a2dd" />
+<img width="1902" height="914" alt="image" src="https://github.com/user-attachments/assets/5a8b6e63-c095-44f3-bcf9-24d5fbd35611" />
 
 
 ### Projects Showcase
